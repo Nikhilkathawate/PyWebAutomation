@@ -1,5 +1,5 @@
-- Name - Pramod
-- Author - Pramod
+- Name - Nikhil.K
+- Author - Nikhil.K
 
 
 ### Web Automation Framework with POM in Python(Selenium)
